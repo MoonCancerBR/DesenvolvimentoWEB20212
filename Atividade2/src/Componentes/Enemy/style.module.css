@@ -1,0 +1,10 @@
+.enemy{
+    display: flex;
+    width: 50%;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    border-radius: 30px;
+    padding: 20px;
+}
